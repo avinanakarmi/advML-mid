@@ -52,7 +52,8 @@ In this experiment, cPCA is applied to detect changes between "before" and "afte
 - The "before" and "after" images must be present in the `satellite_image_data` folder.
 
 #### 3.3 Required Data and Execution
-- To visualize and analyze the results, execute the script in `satellite_image_change_scripts/cPCA.ipynb`.
+- To visualize and analyze the results using cPCA, execute the script in `satellite_image_change_scripts/cPCA.ipynb`.
+- To visualize and analyze the results using simple difference, execute the script in `satellite_image_change_scripts/simple_diff.ipynb`.
 
 
 ## Results & Findings
