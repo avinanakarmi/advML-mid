@@ -1,0 +1,201 @@
+id,scam_flag,message
+1,0,Alert: Homeowners insurance premium of $600 due April 15. Pay via our portal.
+2,0,Auto-debit alert: Your Netflix subscription ($15) will be charged on April 12.
+3,0,Electricity bill due April 10. Amount: $125. Pay to avoid late fees.
+4,0,"Final notice: Electricity bill due tomorrow, April 10. Amount: $110. Pay now."
+5,0,"Friendly reminder: Your rent payment of $1,200 is due on April 5. Please submit on time."
+6,0,Gym renewal reminder: Pay $50 before April 16 to maintain access.
+7,0,Health club membership renewal of $99 is due on April 13. Pay online.
+8,0,Important: Your life insurance premium of $200 is due April 22. Pay promptly.
+9,0,Internet bill unpaid. Due amount: $55. Pay by April 12 to avoid late charges.
+10,0,Internet subscription renewal due on April 9. Pay $50 to continue your service.
+11,0,Library fine of $10 is due April 9. Pay online to avoid penalties.
+12,0,Loan repayment of $500 is due April 14. Pay via bank transfer.
+13,0,"Monthly mortgage payment of $1,500 is due April 10. Pay to avoid penalties."
+14,0,Reminder: Auto loan payment of $400 due April 15. Late fees apply if unpaid.
+15,0,Reminder: Your car insurance premium of $80 is due soon. Pay by April 10.
+16,0,Reminder: Your car loan installment of $300 is due on April 5. Pay to avoid penalties.
+17,0,Reminder: Your magazine subscription of $20 is due April 8.
+18,0,Reminder: Your phone bill of $45 is due on April 12. Pay via our app or website.
+19,0,Statement Alert: Your credit card bill of $150 is due by April 8. Pay to avoid interest.
+20,0,Streaming service charge of $18 due April 14. Auto-debit will apply.
+21,0,Subscription alert: Your cloud storage plan of $5 is due on April 12.
+22,0,Subscription renewal alert: Your antivirus plan will renew for $29 on April 8.
+23,0,Utility bill reminder: Pay $75 for electricity before April 18.
+24,0,Vehicle registration renewal fee of $75 is due April 19.
+25,0,Water bill due April 18: $70. Pay online or at your nearest service center.
+26,0,Water bill for account #6789 is due on April 15. Amount: $55. Please pay on time.
+27,0,You have an outstanding balance of $35 for your water bill. Pay before April 17.
+28,0,Your Amazon Prime subscription will renew on April 8 for $12.99. Cancel if needed.
+29,0,Your bank loan installment of $850 is due April 20. Pay through net banking.
+30,0,Your credit card bill payment is pending. Due date: April 10. Amount: $500.
+31,0,Your electricity bill of $120 is due on April 10. Pay now to avoid late fees.
+32,0,"Your gas bill for this month is $40, due April 14. Pay via your online account."
+33,0,Your gas bill is overdue by 5 days. Amount: $38. Pay to avoid service interruption.
+34,0,Your gym membership renewal fee of $45 is due on April 20. Pay online.
+35,0,Your health insurance payment of $150 is due on April 20. Avoid policy lapse.
+36,0,Your home insurance policy renewal of $450 is due on April 22.
+37,0,Your home internet bill of $70 is due on April 7. Pay to avoid disconnection.
+38,0,Your home loan EMI of $950 is due April 7. Pay via bank transfer or auto-debit.
+39,0,Your internet bill of $60 is due in 3 days. Avoid service disruption by paying now.
+40,0,Your mobile data plan will expire on April 10. Renew for $20 to continue service.
+41,0,Your monthly cable bill of $30 is due April 15. Pay via mobile app.
+42,0,Your monthly toll pass recharge of $30 is due on April 11. Recharge now.
+43,0,Your parking permit renewal fee of $60 is due April 11.
+44,0,Your phone service will be suspended if $65 is not paid by April 9.
+45,0,Your phone service will be suspended if unpaid by April 15. Amount due: $40.
+46,0,Your power bill of $130 is due April 12. Pay through our mobile app.
+47,0,Your property tax of $500 is due next week. Avoid penalties by paying on time.
+48,0,Your security system subscription of $25 is due April 10. Pay to avoid disruption.
+49,0,Your streaming service bill of $20 is due tomorrow. Pay now.
+50,0,Your student loan installment of $300 is due April 17. Pay now.
+51,0,"Congratulations, Jane Doe! We’re offering you the HR Specialist role at Elite Enterprises. The starting salary is $58,000/year. Let us know your decision."
+52,0,"Dear Alan, following your final interview, we are pleased to offer you the position of Financial Analyst at ABC Bank. Please find the contract attached."
+53,0,"Dear Mathew, our team was impressed with your interview! We’re excited to offer you the Sales Associate position at Global Retail. Let us know if you accept by Monday."
+54,0,"Dear Mathew, we reviewed your application for the Marketing Coordinator role at ABC Corp. We’d love to offer you the position! Please review the details and respond by Friday."
+55,0,"Dear Mathew, we’d love to have you as part of our Hospitality Team at Grand Resorts. The job comes with full benefits. Let us know if you accept!"
+56,0,"Dear Caroline, we’re excited to invite you to join our Teaching Assistant team at Greenfield Academy. Please let us know your decision by Friday."
+57,0,"Dear Caroline, we’re excited to offer you the Social Media Manager role at TrendSetters. Let us know your availability for a call to discuss details."
+58,0,"Dear Amy, we’re happy to offer you the Warehouse Associate role at Express Logistics. Your first shift is scheduled for April 10. Let us know if you accept!"
+59,0,"Dear Amy, we’re offering you the internship position at Growth Marketing Inc. Please review the attached documents and confirm your acceptance."
+60,0,"Dear Amy, we’re pleased to extend an offer for the Operations Associate role at Bright Logistics. Please confirm your acceptance to proceed with paperwork."
+61,0,"Good news, Jane Doe! You’ve been selected for our Graduate Trainee Program at Delta Industries. Please review the contract and confirm your acceptance."
+62,0,"Hello Rebecca, after reviewing your application, we’d like to offer you a remote position as a Virtual Assistant. Reply to receive the contract details."
+63,0,"Hello John, based on your performance in the interview, we’d like to offer you the Legal Assistant role at Prestige Law Firm. Let us know your availability."
+64,0,"Hello John, congratulations! We’re offering you the role of Digital Marketing Associate at BrandWorks. Let us know by April 7 if you accept."
+65,0,"Hello John, we’re offering you a part-time role as a Research Assistant at City University. Reply to this email to confirm your acceptance."
+66,0,"Hello John, we’re offering you a role as a Customer Service Representative at CallTech. Starting salary: $45,000/year. Let us know if you’d like to proceed."
+67,0,"Hello John, we’re thrilled to offer you a role at Fresh Foods as an Assistant Manager. Reply by April 5 to proceed with onboarding."
+68,0,"Hi Rebecca, congratulations! After careful consideration, we’re pleased to offer you the Software Engineer position at XYZ Tech. Let’s discuss next steps."
+69,0,"Hi Josh, congratulations! We’d love to have you join our Engineering team at TechSolve Inc. Please review the contract and let us know if you have questions."
+70,0,"Hi Josh, we’d like to offer you the remote Data Entry Specialist position. Training starts next week—please confirm if you're interested!"
+71,0,"Hi Josh, we’d like to welcome you to the Technical Support team at Net Solutions. Your start date would be April 15. Please confirm your interest."
+72,0,"Hi Josh, we’d love to welcome you as a Project Manager at Innovate Solutions! Your starting date would be May 1. Let us know if you accept."
+73,0,"Hi Alan, we’re excited to offer you the UX Designer position at Creative Labs! Salary: $70,000/year. Let us know if you’d like to proceed."
+74,0,"Hi Alan, your application for the Medical Receptionist role at HealthPlus was successful! We’d love to have you on board—please confirm your acceptance."
+75,0,"Hi Alan, your skills match our open Content Writer position at Media House. We’d love to have you on board! Please review the offer letter."
+76,0,"Dear Ava, your passport renewal appointment at the State Office is scheduled for April 4 at 8:30 AM. Please arrive on time."
+77,0,"Dear Benjamin, your mortgage consultation with HomeFirst Loans is set for April 14 at 12:00 PM. Let us know if you need to change it."
+78,0,"Dear Ella, your flu shot appointment at Metro Pharmacy is confirmed for April 24 at 9:00 AM. Bring your insurance card."
+79,0,"Dear Noah, your family counseling session at Harmony Center is on April 27 at 5:30 PM. Let us know if you need to adjust the time."
+80,0,"Dear Robert, this is a reminder of your eye exam at Vision First on April 7 at 4:00 PM. Contact us if you need to change your appointment."
+81,0,"Dear Samuel, your dog grooming appointment at Paws & Claws is scheduled for April 20 at 2:00 PM. We look forward to seeing Max!"
+82,0,"Dear Sophia, your child’s pediatric checkup with Dr. Patel is on April 12 at 10:30 AM. Call us if you need to reschedule."
+83,0,"Hello Daniel, your real estate showing for 123 Main St. is scheduled for April 6 at 1:00 PM. Let us know if you have any questions."
+84,0,"Hello Ethan, your HVAC maintenance appointment with CoolAir Services is on April 13 at 10:00 AM. Expect a technician within the time window."
+85,0,"Hello Grace, your hair coloring session with Mia at Elite Salon is scheduled for April 28 at 12:00 PM. Let us know if you need any changes."
+86,0,"Hello Harper, your home inspection with SafeHome Inspections is set for April 22 at 1:30 PM. Please ensure access to all rooms."
+87,0,"Hello Henry, your dental surgery pre-op consultation at Smile Dental is on April 18 at 9:30 AM. Call us if you need to reschedule."
+88,0,"Hello Jack, your court hearing at County Courthouse is scheduled for April 25 at 3:00 PM. Contact your lawyer if you have questions."
+89,0,"Hello James, your annual physical exam is scheduled for April 8 at 2:30 PM at City Health Center. Let us know if you need to reschedule."
+90,0,"Hello Jessica, your physical therapy session at Restore Wellness is scheduled for April 15 at 5:00 PM. Let us know if you need any adjustments."
+91,0,"Hi Chloe, a reminder that your legal consultation with Davidson Law is on April 19 at 11:00 AM. Let us know if you have questions."
+92,0,"Hi Emily, your car service appointment at AutoCare Plus is set for April 3 at 9:00 AM. Please arrive 10 minutes early."
+93,0,"Hi Isabella, your school meeting with Principal Rodriguez is on April 26 at 8:45 AM. Please check in at the front desk."
+94,0,"Hi Lily, this is a friendly reminder of your massage therapy session at Zen Spa on April 5 at 6:00 PM."
+95,0,"Hi Lucas, a reminder that your job interview with GreenTech Solutions is on April 23 at 10:00 AM. Check your email for details."
+96,0,"Hi Mia, your fitness assessment with Coach Ryan is scheduled for April 16 at 7:00 AM. Wear comfortable clothing."
+97,0,"Hi Michael, a reminder that your haircut appointment at Luxe Salon is on April 9 at 3:00 PM. See you soon!"
+98,0,"Hi Olivia, your tax consultation with Jackson & Co. is on April 10 at 11:00 AM. Please bring the required documents."
+99,0,"Hi Sarah, this is a reminder of your dental cleaning at Bright Smiles Clinic on April 5 at 10:00 AM. Please reply YES to confirm or call us to reschedule."
+100,0,"Hi William, your financial advisory meeting with NextGen Investments is confirmed for April 11 at 2:00 PM. Please bring your ID."
+101,0,"Dear Ava, your verification code is 893541. Do not share this code. – SafeLogin"
+102,0,"Dear Benjamin, use 446720 to authorize your credit card transaction. – PaySafe"
+103,0,"Dear Chloe, your OTP for password reset is 664918. – SafePassword"
+104,0,"Dear Daniel, use 990475 for multi-factor authentication. – SecureID"
+105,0,"Dear Ella, use 669741 to authorize your withdrawal. – CashSafe"
+106,0,"Dear James, use 283904 to verify your transaction. Do not share with anyone. – QuickPay"
+107,0,"Dear Mia, enter 671243 to complete your online purchase. – SafeCart"
+108,0,"Dear Noah, enter 776522 to confirm your new password. – SecureReset"
+109,0,"Dear Olivia, use 222435 to access your new subscription. – StreamNow"
+110,0,"Dear Samuel, your OTP for banking login is 553201. – TrustSecure"
+111,0,"Dear Sophia, your OTP for app login is 123896. – AppSecure"
+112,0,"Dear William, enter 990183 to reset your password. Valid for 10 minutes. – MySecureBank"
+113,0,"Hello Benjamin, your authentication code is 768451. – SecurePay"
+114,0,"Hello Chloe, enter 929647 to confirm your registration. – SignUpSecure"
+115,0,"Hello Daniel, use 437526 to complete your payment. Valid for 10 minutes. – FastPay"
+116,0,"Hello Emily, enter 774509 to authorize your transaction. – MoneySafe"
+117,0,"Hello Ethan, enter 998301 to complete your sign-up. – NewUserSecure"
+118,0,"Hello Henry, use 558211 to link your new device. – DeviceSecurity"
+119,0,"Hello Isabella, your OTP for mobile banking is 334567. – SmartBank"
+120,0,"Hello Lily, enter 550017 to activate two-factor authentication. – Secure2FA"
+121,0,"Hello Lucas, your one-time password is 447382. – QuickLogin"
+122,0,"Hello Michael, enter 886453 to confirm your e-commerce transaction. – BuySafe"
+123,0,"Hello Olivia, your login OTP is 975632. It expires in 10 minutes. – SafeBank"
+124,0,"Hello Sophia, your security code is 772365. This is required to access your account. – SecureVault"
+125,0,"Hi Ava, enter 442298 to change your security settings. – AccountSafety"
+126,0,"Hi Emily, your OTP for password reset is 664221. It will expire in 5 minutes. – MySecureApp"
+127,0,"Hi Grace, use 445612 to verify your new email. – AccountUpdate"
+128,0,"Hi Harper, enter 888362 to verify your email address. – SafeMail"
+129,0,"Hi Henry, use 114998 for 2-step verification. – Authenticator"
+130,0,"Hi Jack, enter 991270 to verify your new device. – DeviceAuth"
+131,0,"Hi James, your OTP is 881235 for account recovery. – SecureAccount"
+132,0,"Hi Lily, use 334928 to verify your phone number. – MobileAuth"
+133,0,"Hi Mia, enter 773354 to complete your registration. – NewAccountSetup"
+134,0,"Hi Michael, enter 556987 to confirm your booking. Do not share this OTP. – TravelNow"
+135,0,"Hi William, use 667780 to complete your KYC verification. – VerifyIdentity"
+136,0,Your OTP for account activation is 223178. It expires in 15 minutes. – DigiBank
+137,0,"Your OTP for login is 129847. If you didn’t request this, ignore the message. – TechSecure"
+138,0,"Your OTP for login is 882716. If this wasn’t you, change your password immediately. – TrustBank"
+139,0,"Your OTP for payment is 882435. If this wasn’t you, contact support. – SafeTransaction"
+140,0,Your OTP for ticket booking is 339874. Do not share. – TravelSecure
+141,0,Your OTP is 112679. Please do not share this code. – SafeLogin
+142,0,Your OTP is 125406. It is valid for 5 minutes. – InstantAccess
+143,0,"Your OTP is 338901. If this wasn’t requested, contact support. – BankSafe"
+144,0,Your OTP is 442890. Never share this code. – MobilePay
+145,0,Your OTP is 445902. Never share this code with anyone. – PaySure
+146,0,Your OTP is 482193. Do not share this code with anyone. – BankSecure
+147,0,Your OTP is 552301. This code is for your personal use only. – VerifyMe
+148,0,Your OTP is 559230. This code is confidential. – PrivacyFirst
+149,0,Your OTP is 771632. It expires in 5 minutes. – DigitalVerify
+150,0,Your OTP is 991123. This code will expire in 5 minutes. – InstantVerify
+151,0,"Dear Benjamin, to access your profile on ConnectNow, please log in with your username and password."
+152,0,"Dear Daniel, log in to your PaymentGateway account to process your recent payment."
+153,0,"Dear Ella, to update your profile, log in to your SocialMedia account at www.socialmedia.com."
+154,0,"Dear Isabella, please log in to your VirtualAssistant app to manage your schedule."
+155,0,"Dear James, log in to your BankSecure account to check your latest transactions."
+156,0,"Dear Lily, log in to your OnlineStore account to check your order status."
+157,0,"Dear Lily, to continue your application process, please log in to your job portal account."
+158,0,"Dear Mia, log in to your BudgetTracker account to plan your monthly expenses."
+159,0,"Dear Mia, log in to your DocumentStorage account at www.documentstorage.com to view your documents."
+160,0,"Dear Noah, log in to your FinancialPlanner account at www.financialplanner.com to review your portfolio."
+161,0,"Dear Olivia, please log in to your ShoppingNow account using your registered email and password to view your orders."
+162,0,"Dear Samuel, log in to your GameAccount to track your achievements."
+163,0,"Dear Sophia, to continue your learning journey, please log in to your CoursePortal account."
+164,0,"Dear William, access your files by logging into your CloudDrive account at www.clouddrive.com."
+165,0,"Dear William, please log in to your bank account to complete the transaction."
+166,0,"Hello Ava, log in to your ShoppingPortal to confirm your order details."
+167,0,"Hello Ava, please log in to your OnlineShop account to track your recent orders."
+168,0,"Hello Benjamin, log in to your FinancialAccount to review your upcoming payments."
+169,0,"Hello Benjamin, log in to your FreelancerPortal account to submit your project."
+170,0,"Hello Benjamin, log in to your MeetingScheduler app to set up your next appointment."
+171,0,"Hello Daniel, log in to your CRM tool at www.crmtool.com to manage your leads."
+172,0,"Hello Daniel, please log in to your HealthPortal account to view your upcoming appointments."
+173,0,"Hello Ella, log in to your OnlineStudy account to view your course materials."
+174,0,"Hello Grace, please log in to your SmartHome account to control your devices remotely."
+175,0,"Hello Harper, log in to your MusicApp to discover new songs."
+176,0,"Hello Jack, log in to your OnlineBanking account to view your recent transactions."
+177,0,"Hello Mia, you need to log in to your DigitalBank account to complete the verification process."
+178,0,"Hello Michael, please log in to your CloudStorage account to upload your documents."
+179,0,"Hello Michael, you need to log in to your eCommerce platform account to complete the checkout process."
+180,0,"Hello Noah, please log in to your email inbox at www.emailservice.com to check new messages."
+181,0,"Hello Sarah, to access your account at BankSecure, please log in using your credentials at www.banksecure.com."
+182,0,"Hi Ava, please log in to your WorkApp account to track your daily goals."
+183,0,"Hi Emily, to proceed with your request, please log in to your SafeBank account at www.safebank.com."
+184,0,"Hi Grace, log in to your FitnessApp to update your progress."
+185,0,"Hi Harper, log in to your FitnessTracker account to view your workout progress."
+186,0,"Hi Harper, log in to your HealthMonitor account to track your vital signs."
+187,0,"Hi Henry, to access your subscription details, log in to your StreamNow account."
+188,0,"Hi Jack, log in to your HomeSecurity app to check the status of your cameras."
+189,0,"Hi Jack, log in to your WorkConnect account at www.workconnect.com to start your workday."
+190,0,"Hi James, access your profile by logging in to your social media account at www.socialmedia.com."
+191,0,"Hi James, you can log in to your email account using your password at www.emailservice.com."
+192,0,"Hi Lily, log in to your music streaming account at www.musicstream.com to listen to your playlists."
+193,0,"Hi Lily, please log in to your CookingApp to save your favorite recipes."
+194,0,"Hi Lucas, please log in to your TaskManager app using your credentials to view your tasks."
+195,0,"Hi Lucas, to complete your booking, log in to your TravelSite account."
+196,0,"Hi Noah, log in to your SmartHome app to control your thermostat."
+197,0,"Hi Olivia, log in to your ProjectManagement app to view your team’s progress."
+198,0,"Hi Olivia, log in to your WellnessApp to track your daily health stats."
+199,0,"Hi Samuel, to access your personal information, please log in to your HealthApp account."
+200,0,"Hi Sophia, you need to log in to your TaxFiling account to complete your submission."

@@ -1,0 +1,201 @@
+id,scam_flag,message
+3,0,Electricity bill due April 10. Amount: $125. Pay to avoid late fees.
+6,0,Gym renewal reminder: Pay $50 before April 16 to maintain access.
+7,0,Health club membership renewal of $99 is due on April 13. Pay online.
+10,0,Internet subscription renewal due on April 9. Pay $50 to continue your service.
+12,0,Loan repayment of $500 is due April 14. Pay via bank transfer.
+13,0,"Monthly mortgage payment of $1,500 is due April 10. Pay to avoid penalties."
+16,0,Reminder: Your car loan installment of $300 is due on April 5. Pay to avoid penalties.
+17,0,Reminder: Your magazine subscription of $20 is due April 8.
+19,0,Statement Alert: Your credit card bill of $150 is due by April 8. Pay to avoid interest.
+20,0,Streaming service charge of $18 due April 14. Auto-debit will apply.
+23,0,Utility bill reminder: Pay $75 for electricity before April 18.
+25,0,Water bill due April 18: $70. Pay online or at your nearest service center.
+27,0,You have an outstanding balance of $35 for your water bill. Pay before April 17.
+28,0,Your Amazon Prime subscription will renew on April 8 for $12.99. Cancel if needed.
+30,0,Your credit card bill payment is pending. Due date: April 10. Amount: $500.
+31,0,Your electricity bill of $120 is due on April 10. Pay now to avoid late fees.
+32,0,"Your gas bill for this month is $40, due April 14. Pay via your online account."
+34,0,Your gym membership renewal fee of $45 is due on April 20. Pay online.
+36,0,Your home insurance policy renewal of $450 is due on April 22.
+37,0,Your home internet bill of $70 is due on April 7. Pay to avoid disconnection.
+39,0,Your internet bill of $60 is due in 3 days. Avoid service disruption by paying now.
+42,0,Your monthly toll pass recharge of $30 is due on April 11. Recharge now.
+43,0,Your parking permit renewal fee of $60 is due April 11.
+46,0,Your power bill of $130 is due April 12. Pay through our mobile app.
+47,0,Your property tax of $500 is due next week. Avoid penalties by paying on time.
+52,0,"Dear Alan, following your final interview, we are pleased to offer you the position of Financial Analyst at ABC Bank. Please find the contract attached."
+56,0,"Dear Caroline, we're excited to invite you to join our Teaching Assistant team at Greenfield Academy. Please let us know your decision by Friday."
+57,0,"Dear Caroline, we're excited to offer you the Social Media Manager role at TrendSetters. Let us know your availability for a call to discuss details."
+61,0,"Good news, Jane Doe! You've been selected for our Graduate Trainee Program at Delta Industries. Please review the contract and confirm your acceptance."
+62,0,"Hello Rebecca, after reviewing your application, we'd like to offer you a remote position as a Virtual Assistant. Reply to receive the contract details."
+66,0,"Hello John, we're offering you a role as a Customer Service Representative at CallTech. Starting salary: $45,000/year. Let us know if you'd like to proceed."
+67,0,"Hello John, we're thrilled to offer you a role at Fresh Foods as an Assistant Manager. Reply by April 5 to proceed with onboarding."
+68,0,"Hi Rebecca, congratulations! After careful consideration, we're pleased to offer you the Software Engineer position at XYZ Tech. Let's discuss next steps."
+69,0,"Hi Josh, congratulations! We'd love to have you join our Engineering team at TechSolve Inc. Please review the contract and let us know if you have questions."
+70,0,"Hi Josh, we'd like to offer you the remote Data Entry Specialist position. Training starts next week-please confirm if you're interested!"
+74,0,"Hi Alan, your application for the Medical Receptionist role at HealthPlus was successful! We'd love to have you on board-please confirm your acceptance."
+76,0,"Dear Ava, your passport renewal appointment at the State Office is scheduled for April 4 at 8:30 AM. Please arrive on time."
+77,0,"Dear Benjamin, your mortgage consultation with HomeFirst Loans is set for April 14 at 12:00 PM. Let us know if you need to change it."
+78,0,"Dear Ella, your flu shot appointment at Metro Pharmacy is confirmed for April 24 at 9:00 AM. Bring your insurance card."
+79,0,"Dear Noah, your family counseling session at Harmony Center is on April 27 at 5:30 PM. Let us know if you need to adjust the time."
+80,0,"Dear Robert, this is a reminder of your eye exam at Vision First on April 7 at 4:00 PM. Contact us if you need to change your appointment."
+83,0,"Hello Daniel, your real estate showing for 123 Main St. is scheduled for April 6 at 1:00 PM. Let us know if you have any questions."
+85,0,"Hello Grace, your hair coloring session with Mia at Elite Salon is scheduled for April 28 at 12:00 PM. Let us know if you need any changes."
+86,0,"Hello Harper, your home inspection with SafeHome Inspections is set for April 22 at 1:30 PM. Please ensure access to all rooms."
+87,0,"Hello Henry, your dental surgery pre-op consultation at Smile Dental is on April 18 at 9:30 AM. Call us if you need to reschedule."
+91,0,"Hi Chloe, a reminder that your legal consultation with Davidson Law is on April 19 at 11:00 AM. Let us know if you have questions."
+94,0,"Hi Lily, this is a friendly reminder of your massage therapy session at Zen Spa on April 5 at 6:00 PM."
+96,0,"Hi Mia, your fitness assessment with Coach Ryan is scheduled for April 16 at 7:00 AM. Wear comfortable clothing."
+97,0,"Hi Michael, a reminder that your haircut appointment at Luxe Salon is on April 9 at 3:00 PM. See you soon!"
+98,0,"Hi Olivia, your tax consultation with Jackson & Co. is on April 10 at 11:00 AM. Please bring the required documents."
+99,0,"Hi Sarah, this is a reminder of your dental cleaning at Bright Smiles Clinic on April 5 at 10:00 AM. Please reply YES to confirm or call us to reschedule."
+101,0,"Dear Ava, your verification code is 893541. Do not share this code. - SafeLogin"
+102,0,"Dear Benjamin, use 446720 to authorize your credit card transaction. - PaySafe"
+105,0,"Dear Ella, use 669741 to authorize your withdrawal. - CashSafe"
+112,0,"Dear William, enter 990183 to reset your password. Valid for 10 minutes. - MySecureBank"
+114,0,"Hello Chloe, enter 929647 to confirm your registration. - SignUpSecure"
+115,0,"Hello Daniel, use 437526 to complete your payment. Valid for 10 minutes. - FastPay"
+116,0,"Hello Emily, enter 774509 to authorize your transaction. - MoneySafe"
+118,0,"Hello Henry, use 558211 to link your new device. - DeviceSecurity"
+119,0,"Hello Isabella, your OTP for mobile banking is 334567. - SmartBank"
+120,0,"Hello Lily, enter 550017 to activate two-factor authentication. - Secure2FA"
+121,0,"Hello Lucas, your one-time password is 447382. - QuickLogin"
+123,0,"Hello Olivia, your login OTP is 975632. It expires in 10 minutes. - SafeBank"
+125,0,"Hi Ava, enter 442298 to change your security settings. - AccountSafety"
+126,0,"Hi Emily, your OTP for password reset is 664221. It will expire in 5 minutes. - MySecureApp"
+127,0,"Hi Grace, use 445612 to verify your new email. - AccountUpdate"
+128,0,"Hi Harper, enter 888362 to verify your email address. - SafeMail"
+129,0,"Hi Henry, use 114998 for 2-step verification. - Authenticator"
+133,0,"Hi Mia, enter 773354 to complete your registration. - NewAccountSetup"
+136,0,Your OTP for account activation is 223178. It expires in 15 minutes. - DigiBank
+137,0,"Your OTP for login is 129847. If you didn't request this, ignore the message. - TechSecure"
+138,0,"Your OTP for login is 882716. If this wasn't you, change your password immediately. - TrustBank"
+140,0,Your OTP for ticket booking is 339874. Do not share. - TravelSecure
+141,0,Your OTP is 112679. Please do not share this code. - SafeLogin
+142,0,Your OTP is 125406. It is valid for 5 minutes. - InstantAccess
+144,0,Your OTP is 442890. Never share this code. - MobilePay
+149,0,Your OTP is 771632. It expires in 5 minutes. - DigitalVerify
+151,0,"Dear Benjamin, to access your profile on ConnectNow, please log in with your username and password."
+153,0,"Dear Ella, to update your profile, log in to your SocialMedia account at www.socialmedia.com."
+159,0,"Dear Mia, log in to your DocumentStorage account at www.documentstorage.com to view your documents."
+160,0,"Dear Noah, log in to your FinancialPlanner account at www.financialplanner.com to review your portfolio."
+162,0,"Dear Samuel, log in to your GameAccount to track your achievements."
+163,0,"Dear Sophia, to continue your learning journey, please log in to your CoursePortal account."
+165,0,"Dear William, please log in to your bank account to complete the transaction."
+166,0,"Hello Ava, log in to your ShoppingPortal to confirm your order details."
+170,0,"Hello Benjamin, log in to your MeetingScheduler app to set up your next appointment."
+171,0,"Hello Daniel, log in to your CRM tool at www.crmtool.com to manage your leads."
+173,0,"Hello Ella, log in to your OnlineStudy account to view your course materials."
+174,0,"Hello Grace, please log in to your SmartHome account to control your devices remotely."
+175,0,"Hello Harper, log in to your MusicApp to discover new songs."
+178,0,"Hello Michael, please log in to your CloudStorage account to upload your documents."
+183,0,"Hi Emily, to proceed with your request, please log in to your SafeBank account at www.safebank.com."
+187,0,"Hi Henry, to access your subscription details, log in to your StreamNow account."
+188,0,"Hi Jack, log in to your HomeSecurity app to check the status of your cameras."
+190,0,"Hi James, access your profile by logging in to your social media account at www.socialmedia.com."
+191,0,"Hi James, you can log in to your email account using your password at www.emailservice.com."
+192,0,"Hi Lily, log in to your music streaming account at www.musicstream.com to listen to your playlists."
+195,0,"Hi Lucas, to complete your booking, log in to your TravelSite account."
+196,0,"Hi Noah, log in to your SmartHome app to control your thermostat."
+198,0,"Hi Olivia, log in to your WellnessApp to track your daily health stats."
+203,1,Congratulations! You won a free bill payment! Click link to claim.
+206,1,Immediate action needed! Pay your outstanding bill to avoid court action.
+207,1,Immediate action required! Pay your gas bill before shutdown: fraud-site.
+210,1,Phone bill unpaid~service will be blocked! Send money via Zelle to 201-987-5645.
+212,1,Suspicious account activity detected! Pay $250 to verify your identity.
+213,1,Tax violation detected! Send $500 to avoid prosecution.
+216,1,WARNING: Your water service will be disconnected in 24 hours! Pay here: link
+217,1,You have an unpaid loan! Avoid blacklisting~pay now at loan-site.
+219,1,Your credit card has an outstanding balance. Send $500 to random-account to clear it.
+220,1,Your internet bill is overdue! Click ISP.com to pay instantly.
+223,1,Your rent payment is missing. Confirm payment at landlord-link.
+225,1,Your subscription is ending today! Send $20 via gift card to renew.
+227,1,Apple ID Suspended: Log in immediately to restore access: appleid.com
+228,1,Bank Interest Rate Change: View your updated savings rate by logging in: phishing-banking-updates.com
+230,1,Banking Alert: Your online banking password was reset. Log in to confirm: banking.com
+231,1,Billing Issue Detected: Your Netflix subscription failed. Log in to update your payment details: phishing-link
+232,1,Bitcoins Sent to Your Wallet: Log in to confirm the transaction: crypto-login.com
+234,1,Delivery Attempt Failed: Your package could not be delivered. Log in to reschedule: shipping.com
+236,1,Emergency Contact Request: Someone tried to access your contacts! Log in to review: security-alert.com
+237,1,Facebook Login Needed: Your account may be suspended! Secure it now: phishing-fb.com
+239,1,Final Warning: Your bank card has been frozen. Restore access now: card-update.com
+242,1,Important: Your credit card was used for an unauthorized transaction. Log in to dispute: bank.com
+243,1,Instagram Security Check: We detected unusual login attempts. Verify at: ig.com
+246,1,Lottery Winner Confirmation: You won a cash prize! Log in now to verify: lottery.com
+247,1,New Friend Request on Facebook: See who added you: social.com
+252,1,PayPal Security Check: Unusual activity detected. Confirm your details at: paypal-login.com
+256,1,Social Security Account Notice: Secure your benefits by logging in: phishing-ssa.com
+257,1,Streaming Service Renewal: Your subscription is on hold. Log in to continue: streaming.com
+261,1,Unusual Login Attempt: We noticed a login from a new device. Verify it here: login.com
+262,1,URGENT: Government Benefit Update: Log in now to claim: gov-benefits.com
+266,1,You Have a Gift Card Balance: Log in to redeem it now: giftcards.com
+267,1,You Have a Pending Invoice: Log in to view details: invoice.com
+268,1,Your Account is Compromised: Immediate action needed! Secure your account at: security.com
+269,1,Your Amazon Gift Card is Ready: Log in to redeem: amazon-gift.com
+270,1,Your Bank Statement is Ready: Access it now at: phishing-banking.com
+274,1,Your Order is Delayed: Log in to track shipping: shipment.com
+276,1,Amazon Order Confirmation: Use OTP 953214 to verify your recent purchase.
+277,1,Apple ID Suspicious Login: Use OTP 281745 to verify and reset your password.
+278,1,Bank Account Verification Required: Confirm with OTP 538291.
+279,1,Congratulations! You've won a free vacation! Enter OTP 217536 to confirm.
+280,1,Crypto Wallet Transfer: Use OTP 742069 to confirm your Bitcoin withdrawal.
+283,1,Final Warning: Enter OTP 523814 to restore your email access.
+285,1,Fraudulent Activity Detected! Secure your online banking with OTP 875620.
+286,1,Google Account Recovery: Use OTP 728491 to change your password.
+287,1,Government Relief Funds Available: Use OTP 361924 to claim yours now!
+291,1,New Login Attempt from Unknown Location: Enter OTP 298734 to confirm it's you.
+294,1,PayPal Refund Request: Use OTP 472901 to confirm your request now.
+296,1,Security Alert: A login attempt was made from a new device. Enter OTP 839210 to verify.
+297,1,Suspicious Activity Detected: Confirm your identity with OTP 749205.
+298,1,Unauthorized Fund Transfer Detected: Use OTP 513762 to stop the transfer.
+299,1,Unauthorized withdrawal request detected! Use OTP 591207 to cancel.
+301,1,Urgent Banking Alert: Enter OTP 394215 to reactivate your account.
+302,1,Urgent Banking Alert: Enter OTP 409572 to prevent account freeze.
+305,1,We have detected a login from a new device: Use OTP 648321 to allow access.
+312,1,Your eBay account has been flagged: Use OTP 819752 to remove restrictions.
+314,1,Your Loan Application is Approved: Enter OTP 563820 to access funds.
+315,1,Your Loan Approval OTP is 572801. Enter at loan-site.com to claim funds.
+316,1,Your medical insurance needs verification: Enter OTP 290314 to update your details.
+318,1,"Your OTP is 482931. If you did not request this, please verify immediately: bank.com"
+319,1,Your Paycheck Deposit Failed: Enter OTP 498762 to fix the issue.
+320,1,"Your payment of $3,200 has been requested: Use OTP 730298 to approve or deny."
+321,1,Your PayPal account is locked! Enter OTP 345612 to restore access now.
+323,1,Your streaming subscription is expiring! Renew now with OTP 328471.
+325,1,Appointment Canceled: Click here to reschedule immediately: appointment.com
+326,1,Bank Meeting Reminder: You have a financial review scheduled. Secure your details now: bank.com
+327,1,Blood Donation Appointment Confirmation: Click here to check in: donation.com
+328,1,Court Hearing Update: You must confirm attendance now: court.com
+329,1,COVID-19 Test Scheduled: Please verify your details: testing.com
+333,1,Electricity Provider Meeting: Your home inspection is scheduled. Update details now: energy.com
+336,1,Final Reminder: Your financial advisor meeting is at 2 PM. Log in now: finance.com
+337,1,Final Warning: You missed your car loan discussion. Reschedule immediately: loan.com
+338,1,Final Warning: Your pet's veterinary visit is tomorrow! Confirm now: vet.com
+340,1,Flight Reschedule Appointment: Confirm your booking immediately: airline.com
+341,1,Flu Shot Available for You! Click to book your free dose: pharmacy.com
+342,1,Home Repair Inspection Reminder: Your technician will arrive soon. Log in to confirm: repair.com
+344,1,Jury Duty Summons: Your appointment is set for next week. Confirm here: justice.com
+349,1,Reminder: Your mortgage consultation is in one hour. Log in to verify: mortgage.com
+351,1,Student Loan Assistance Meeting: Secure your debt relief now: studentloan.com
+353,1,Urgent Eye Exam Reminder: Your optometry visit is due. Confirm now: vision.com
+359,1,Urgent: Your real estate closing appointment has changed. Confirm here: housing.com
+360,1,Urgent: Your skin care consultation is today. Click here to confirm: dermatology.com
+362,1,Your Cable Service Technician is Arriving Soon! Log in to approve: tv.com
+363,1,Your Cancer Screening is Pending! Secure your medical records now: healthcare.com
+365,1,Your Church Community Meeting is Scheduled. Confirm attendance now: church.com
+366,1,Your Eye Surgery Follow-Up is Tomorrow! Click here to finalize: optometry.com
+370,1,Your Pharmacy Refill Appointment is Today! Verify your prescription now: pharmacy.com
+371,1,Your Retirement Planning Session is Booked! Secure your assets here: retirement.com
+373,1,Your vaccination appointment is due! Verify your slot here: health.com
+374,1,Your Visa Interview is Tomorrow! Avoid cancellation by verifying here: visa.com
+375,1,Amazon Hiring Urgently! Work from home & earn weekly pay. Apply here: amazonwork.com
+378,1,Congrats! You've been selected for a secret shopper job. Confirm here: mysteryshopper.com
+383,1,Google is Hiring! Remote jobs open. Apply now before spots fill: googlejobs.com
+387,1,Immediate Hiring! Amazon needs remote workers. Sign up today: hiring.com
+388,1,Limited Spots Available! Get a high-paying online job now: fraud-joblistings.com
+390,1,Part-Time Job Available! Earn $500 daily just by answering surveys. Sign up here: workfromhome.com
+391,1,"Quick Cash Opportunity! Make $2,000/week just by posting ads. Join now: adsjob.com"
+392,1,Remote Customer Service Role! Immediate openings. Secure your interview now: customer-service.com
+395,1,Warehouse Job Openings! No skills needed. Apply now and start earning: warehouse.com
+396,1,We're Impressed With Your Profile! Start your job today. Confirm here: recruitment.com
+398,1,Your Dream Job Awaits! Start today and earn big. Click to register: jobnow.com
